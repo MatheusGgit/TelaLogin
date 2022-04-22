@@ -1,0 +1,14 @@
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Form1.resources
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\bin\Debug\EntityFramework.dll
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\bin\Debug\EntityFramework.xml
+C:\Users\Mathe\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CopyComplete
